@@ -1,0 +1,1 @@
+This repository contains the all files and information regarding the neuro notes webpage .This webpage gives a mindmap or a short flashcard of any notes when we have exam tommorow but in a neural network form so that we can understand the connection between each topic and its relation
